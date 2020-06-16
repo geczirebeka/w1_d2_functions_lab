@@ -58,3 +58,11 @@ def number_to_short_month_name(names)
 end
 
 
+def volume(volume_1, volume_2, volume_3)
+    return volume_1 * volume_2 * volume_3
+end
+
+def sphere(n_1, n_2, n_3, n_4, n_5)
+    return n_1 * n_2 * n_3 * n_4 * n_5
+end
+
