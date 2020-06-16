@@ -66,3 +66,7 @@ def sphere(n_1, n_2, n_3, n_4, n_5)
     return n_1 * n_2 * n_3 * n_4 * n_5
 end
 
+def celsius(c_1, c_2, c_3, c_4)
+    result = (c_1 - c_2) * c_3 / c_4
+    return result
+end
